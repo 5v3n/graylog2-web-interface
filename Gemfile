@@ -1,6 +1,6 @@
 source :gemcutter
 
-gem 'rails'
+gem 'rails', '2.3.10'
 gem 'json'
 gem 'bson'
 gem 'mongo'
